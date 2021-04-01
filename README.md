@@ -6,4 +6,4 @@
 bash <(curl -sL https://s.hijk.art/v2ray.sh)
 
 
-bash <(curl -sL https://github.com/xxroot/v2ray/v2ray.sh)
+bash <(curl -sL https://raw.githubusercontent.com/xxroot/v2ray/main/v2ray.sh)
